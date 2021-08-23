@@ -12,8 +12,8 @@
  - 23명이 짝을 이루는 경우의 수는 23x22/2=253(가지)이며 이는 365일의 절반인182.5을 웃도는 숫자이다.
 
 ## 확률 계산하기:
- - P(A): the prob. that at least two ppl in the room have the same birthday.
- - P(A'): the prob that no two ppl in the room have the same birthday.
+ - P(A): the prob. that at least two people in the room have the same birthday.
+ - P(A'): the prob that no two people in the room have the same birthday.
  - P(A') = 1-P(A) ; 상호배타적인 관계.
 
 조건부 확률을 이용해서 계산하자.
